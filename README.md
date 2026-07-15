@@ -185,6 +185,6 @@ Technology is only valuable when it creates measurable business impact.
 
 💼 LinkedIn: https://linkedin.com/in/ishrarg
 
-🌍 Website: https://sharpstack.tech
+🌍 Website: https://ishrar.in | https://sharpstack.net | https://uniasset.app
 
 📧 Always happy to discuss architecture, cloud, AI, and enterprise software.
